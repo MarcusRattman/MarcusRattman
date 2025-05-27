@@ -8,4 +8,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRattman&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" />
 
+![](https://github-profile-trophy.vercel.app/?username=MarcusRattman&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
